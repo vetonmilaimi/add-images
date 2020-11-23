@@ -1,0 +1,11 @@
+{
+  "name": "just-project",
+  "version": "1.0.0",
+  "description": "This is just learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veton Milaimi",
+  "license": "ISC"
+}
